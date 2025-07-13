@@ -18,6 +18,6 @@
 <div class="container mt-4">
     @yield('content')
 </div>
-<p>Lunaticos &copy; 2025</p>
+<p>Lunaticos  &copy; Lucas e Nathália ,2025</p>
 </body>
 </html>
